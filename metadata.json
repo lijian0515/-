@@ -1,0 +1,6 @@
+{
+  "name": "老王切片封面优化大师",
+  "description": "专业抖音博主封面生成器，针对胡说老王2026行业趋势专题定制优化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_processing", "ui_design"]
+}
